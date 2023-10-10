@@ -1,0 +1,191 @@
+/* home page */
+
+
+.logo{
+  color: white;
+  font-size: 80px;
+  font-style: italic;
+  margin-left: 400px;
+  border-width: thick;
+  border-color: white;
+  border-width: 6px;
+  border-style: solid;
+  border-color: brown;
+  text-align: center;
+}
+#port_span{
+  color: red;
+}
+body{
+  background-color: black;
+
+}
+
+
+.list_box{
+  background-color: orange;
+      width: 907px;
+}
+nav ul li{
+  list-style-type: none;
+  display: inline-block;
+  font-size: 30px;
+  letter-spacing: 1px;
+  padding-right: 20px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+}
+#hpphoto{
+  width: 300px;
+  float: right;
+  margin right: 80px;
+  margin-top: -30px;
+}
+
+#hp_info{
+  font-size: 30px;
+  color: white;
+  margin-left: 20px;
+}
+#hpname{
+  font-size: 40px;
+  color: red;
+}
+
+.horizontal-list{
+  margin-bottom: 20px;
+  margin-top: 200px;
+
+
+}
+nav ul li  a{
+  color: white;
+  text-decoration:none;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+nav ul li  a:hover{
+  color: #f90049;
+}
+
+
+
+
+/* qualification */
+.headings{
+  text-align: center;
+  text-decoration: underline;
+  text-transform: uppercase;
+  background-color: black;
+  font-size: 60px;
+  color: white;
+}
+.quali_body{
+  background-color: #998e77;
+  text-align: center;
+  font-size: 25px;
+
+}
+#quali_span{
+  color :#c97d3e;
+}
+.school{
+  width : 500px;
+}
+
+/* about me */
+
+#aboutme_hed{
+  background-color: #998e77;
+  color : #b88fa8;
+  font-size: 60px;
+  color: white;
+  border :6px dashed red;
+}
+
+.abt_me_body{
+  background-color: #9e7384;
+  text-align: center;
+  font-size: 20px;
+  line-height:30px;
+}
+
+#abt_pto{
+  width: 300px;
+  border-radius: 50%;
+   float: right;
+    margin-right : 40px;
+     margin-top : 10px;
+}
+
+#name{
+  font-size: 40px;
+
+}
+
+/* skills */
+
+.skills_body{
+  background-color: #9d67f5;
+  text-align: center;
+  font-size: 40px;
+}
+#skills_heading{
+  text-transform: capitalize;
+  text-decoration: underline;
+  color: #40363e;
+}
+
+#sql_pto{
+  width: 300px
+}
+
+/* hobby */
+
+#hobby_title{
+
+    text-transform: uppercase;
+    text-decoration: underline;
+    color: #40363e;
+    text-align: center;
+
+}
+.hobby_body{
+  background-color: #499e97;
+  text-align: center;
+  font-size: 40px;
+}
+
+.hby_img{
+  width : 300px;
+  border-radius: 20px;
+}
+#hby_spn{
+  color : green;
+}
+#tvl_img{
+  width: 300px;
+  border-radius: 20px;
+}
+
+/* contactme */
+.contactme_body{
+  background-color: #314746;
+  text-align: center;
+  font-size: 40px;
+  color : white;
+}
+#connect{
+  color: orange;
+  text-transform: capitalize;
+  text-decoration: underline;
+
+}
+.cnt_me_img{
+  width: 400;
+}
+.linked{
+  color : red;
+  text-transform: none;
+  text-decoration: none;
+}
